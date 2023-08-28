@@ -3,7 +3,7 @@
  </div>
   
  <div align=center>
-  <h1> Olá, eu sou o Victor 
+  <h1> Olá, <br> eu sou o victor
    <br>
    <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width = "50px" height = "50px" </img>
   </h1>
@@ -15,7 +15,9 @@
 
 <div align="center">
   <a href="https://github.com/dev-victor-arruda">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victor-arruda&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=dev-victor-arruda&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victor-arruda&layout=compact&langs_count=7&theme=tokyonight&border_radius=12&locale=pt-br&hide_title=true"/>
+   
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dev-victor-arruda&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&hide_title=true"/>
 </div>
 
+<h6> </h6>
