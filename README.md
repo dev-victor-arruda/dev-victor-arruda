@@ -6,10 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sedgwick+Ave+Display&size=50&duration=3000&pause=300&color=702106&center=true&vCenter=true&width=500&height=100&lines=Seja+bem-vindo;Seja+bem-vinda;Seja+em-vinde;~%5B-%E0%B8%B4%E0%B8%B4_%E2%80%A2%E0%B8%B4%5D~" alt="Typing SVG" /></a>
 </div>
  <div align=center>
-  <h1> Prazer,
-   <br>
    <img src = "https://user-images.githubusercontent.com/124468894/263581871-2326ed9d-9349-4eed-8160-e66990a659a4.gif" width = "300px" height = "150px">
-  </h1>
  </div>
   
 
