@@ -1,6 +1,8 @@
  <div HEADER align=center>
    <img src="https://user-images.githubusercontent.com/124468894/263580254-5f5f05e4-6e58-4fce-82df-775c82370058.png" height="100%">
  </div>
+ 
+<br>
 
 <p PROFILE_COUNTER align="right"> <img src="https://komarev.com/ghpvc/?username=dev-victor-arruda&color=4A0A67&label=V𝓲ک𝓲†Δک" /> </p>
 
@@ -43,29 +45,34 @@ Indígena e Autista <img WHALE src="https://github.com/Tarikul-Islam-Anik/Animat
 
 <br>
 
-<div CONTATOS align ="center">
-<h2> Contatos </h2>
-<a LINKEDIN target="_blank" href="https://www.linkedin.com/in/victor-arruda/">
-<img align="center" src="https://img.shields.io/badge/victor Arruda-05122A?style=flat&logo=linkedin&logoColor=4A0A67&labelColor=white" alt="linkedin"/>
-</a>
+<div CONTATOS align=center>
+ <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&duration=500&pause=100&color=4A0A67&center=true&vCenter=true&repeat=false&width=435&lines=Contatos" alt="Typing SVG" /></a>
  
+ <br>
+
+<a LINKEDIN target="_blank" href="https://www.linkedin.com/in/victor-arruda/">
+<img align="center" height="30em" src="https://img.shields.io/badge/victor Arruda-05122A?style=flat&logo=linkedin&logoColor=white&labelColor=4A0A67&color=1B0129">
+</a>
 <a GMAIL target="_blank" href="mailto:victorarruda.dev@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/victorarruda.dev-05122A?style=flat&logo=gmail&logoColor=4A0A67&labelColor=" alt="gmail"/>
+ <img align="center" height="30em" src="https://img.shields.io/badge/victorarruda.dev-05122A?style=flat&logo=gmail&logoColor=white&labelColor=4A0A67&color=1B0129">
 </a>
 
 <br>
 <br>
+<br>
+<br>
 
-<h2 align="center">Languages</h2>
-  <p align="center">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,cs,html,css">
-   </a>
-  </p>
+<div LANGUAGES align=center>
+ <a href="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sedgwick+Ave+Display&size=30&duration=500&pause=100&color=4A0A67&center=true&vCenter=true&repeat=false&width=435&lines=Linguagens" alt="Typing SVG" /></a>
+ 
+ <br>
+ 
+  <img src="https://skillicons.dev/icons?i=js,cs,dotnet,html,css">
+</div>
  
   <br>
   <br>
   
-  <div align=center>
+<div align=center>
    <img src="http://images.squarespace-cdn.com/content/v1/55c63ae6e4b06ae6eeb73710/1439988719960-U5CATLRGIYSSAD7NTKVI/bee.gif?format=1000w" height="150px">
-   </div>
+</div>
