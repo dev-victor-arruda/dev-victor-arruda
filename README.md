@@ -5,7 +5,7 @@
  <div align=center>
   <h1> Olá, <br> eu sou o victor
    <br>
-   <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width = "50px" height = "50px" </img>
+   <img src = "https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Honeybee.png" width = "50px" height = "50px">
   </h1>
  </div>
   
@@ -15,9 +15,25 @@
 
 <div align="center">
   <a href="https://github.com/dev-victor-arruda">
-   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victor-arruda&layout=compact&langs_count=7&theme=tokyonight&border_radius=12&locale=pt-br&hide_title=true"/>
+   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-victor-arruda&layout=compact&langs_count=7&theme=tokyonight&border_radius=12&locale=pt-br&hide_title=true">
    
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=dev-victor-arruda&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&hide_title=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=dev-victor-arruda&show_icons=false&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=30&locale=pt-br&hide_title=true">
 </div>
 
-<h6> </h6>
+<div align=center> <img src= "https://user-images.githubusercontent.com/124468894/263565507-99e0686b-c1e6-4640-9f26-209463ae9ab0.png" width = "1080px"> </div>
+
+<h2 align="center">Languages:</h2>
+  <p align="center">
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cs,html,css">
+   </a>
+  </p>
+   
+  <div align=center>
+  <a href="https://www.linkedin.com/in/victor-arruda/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  </div>
+  
+  <br> <br>
+  <div align=center>
+   <img src="http://images.squarespace-cdn.com/content/v1/55c63ae6e4b06ae6eeb73710/1439988719960-U5CATLRGIYSSAD7NTKVI/bee.gif?format=1000w" height="150px">
+   </div>
