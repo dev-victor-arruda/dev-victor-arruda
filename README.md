@@ -4,7 +4,7 @@
  
 <br>
 
-<p PROFILE_COUNTER align="right"> <img src="https://komarev.com/ghpvc/?username=dev-victor-arruda&color=4A0A67&label=V𝓲ک𝓲†Δک" /> </p>
+<p PROFILE_COUNTER align="right"> <img src="https://komarev.com/ghpvc/?username=dev-victor-arruda&color=4A0A67&label=Visitas" /> </p>
 
 <div WELCOME align=center>
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sedgwick+Ave+Display&size=50&duration=2000&pause=150&color=4A0A67&center=true&vCenter=true&width=500&height=100&lines=Seja+bem-vindo+!;Welcome+!;Sea+bienvenido+!;%DA%98+~(%E2%97%A1%E2%80%BF%E2%97%A1)~%E2%9E%B9" alt="Typing SVG" /></a>
